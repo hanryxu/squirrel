@@ -36,9 +36,9 @@
 				<string>rime.pdf</string>
 				<key>tsInputModeCharacterRepertoireKey</key>
 				<array>
-					<string>Latn</string>
 					<string>Hans</string>
 					<string>Hant</string>
+					<string>Latn</string>
 				</array>
 				<key>tsInputModeDefaultStateKey</key>
 				<true/>
@@ -65,9 +65,9 @@
 				<string>rime.pdf</string>
 				<key>tsInputModeCharacterRepertoireKey</key>
 				<array>
-					<string>Latn</string>
 					<string>Hant</string>
 					<string>Hans</string>
+					<string>Latn</string>
 				</array>
 				<key>tsInputModeDefaultStateKey</key>
 				<false/>
